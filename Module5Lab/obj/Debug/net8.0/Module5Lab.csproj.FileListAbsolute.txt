@@ -1,0 +1,15 @@
+/workspaces/mod5lab/Module5Lab/bin/Debug/net8.0/Module5Lab
+/workspaces/mod5lab/Module5Lab/bin/Debug/net8.0/Module5Lab.deps.json
+/workspaces/mod5lab/Module5Lab/bin/Debug/net8.0/Module5Lab.runtimeconfig.json
+/workspaces/mod5lab/Module5Lab/bin/Debug/net8.0/Module5Lab.dll
+/workspaces/mod5lab/Module5Lab/bin/Debug/net8.0/Module5Lab.pdb
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.AssemblyInfoInputs.cache
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.AssemblyInfo.cs
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.csproj.CoreCompileInputs.cache
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.sourcelink.json
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.dll
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/refint/Module5Lab.dll
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.pdb
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/Module5Lab.genruntimeconfig.cache
+/workspaces/mod5lab/Module5Lab/obj/Debug/net8.0/ref/Module5Lab.dll
